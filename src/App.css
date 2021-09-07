@@ -36,3 +36,67 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  font-family:"Lato",sans-serif;
+}
+
+h2{
+  font-family:"Poppins",sans-serif;
+}
+.poppins{
+  font-family:"Poppins",sans-serif;
+}
+.roboto{
+  font-family:"Roboto",sans-serif;
+}
+.bg-accent{
+  background-color:rgb(145, 170, 162);
+}
+.bg-dark-accent{
+  background-color:black;
+}
+.my-nav{
+  background-color:black !important;
+  position:fixed;
+}
+
+.hero{
+  background-color:black;
+  font-family:Poppins, sans-serif;
+}
+
+.pad{
+  padding: 50px 0;
+}
+
+.hero-image{
+  width:100%;
+  max-width:500px;
+  align-self:center;
+}
+
+.hero-text{
+  text-align:center;
+  align-self:center;
+}
+
+.cta-1 img{
+  align-items:center;
+  align-self:center;
+  text-align:center;
+  width:100%;
+  max-width:300px;
+}
+
+.cta-1-text{
+  align-self:center;
+}
+ 
+.text-green{
+  color:green;
+}
+
+.text-secondary1{
+  color:black;
+}
